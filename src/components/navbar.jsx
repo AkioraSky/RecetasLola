@@ -51,7 +51,13 @@ const NavbarLink = ({ datosRe, setDatosRe }) => {
                     <Offcanvas.Title
                       id={`offcanvasNavbarLabel-expand-${expand}`}
                     >
-                      Offcanvas
+                      <img
+                        src="./images/recetasLogo.png"
+                        alt="Bootstrap"
+                        width="85"
+                        height="50"
+                        className="justify-content-center"
+                      />
                     </Offcanvas.Title>
                   </Offcanvas.Header>
                   <Offcanvas.Body className="text-white ">
