@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RecetasLola/static/css/main.c74dcc46.css",
+    "main.js": "/RecetasLola/static/js/main.d86d7fb5.js",
+    "static/media/bootstrap-icons.woff?": "/RecetasLola/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/RecetasLola/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/RecetasLola/index.html",
+    "main.c74dcc46.css.map": "/RecetasLola/static/css/main.c74dcc46.css.map",
+    "main.d86d7fb5.js.map": "/RecetasLola/static/js/main.d86d7fb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c74dcc46.css",
+    "static/js/main.d86d7fb5.js"
+  ]
+}
